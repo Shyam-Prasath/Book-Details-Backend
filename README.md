@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/Shyam-Prasath/Book-Details-Backend.git
+ git clone https://github.com/Shyam-Prasath/Book-Details-Backend
 
 2. Install dependencies:
 
